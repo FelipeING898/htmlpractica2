@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+h1 {
+    text-align: center;
+    background-color: #0000;
+    color: #ffff;
+    padding: 20px;
+}
+
+nav ul{
+    background-color: #757575;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+}
+
+nav ul {
+    display: inline-flex;
+}
+
+nav ul{
+    text-decoration: none;
+    color: #ffff;
+    padding: 10px;
+    width: 150px;
+}
